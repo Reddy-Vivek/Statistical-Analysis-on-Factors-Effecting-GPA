@@ -1,0 +1,101 @@
+"","transit_time","social_media","game","sleep_time","study_hours","study_time_prefer","study_place_prefer","working_hours","experience","relation","gpa"
+"1",95,180,1,7,6,"Morning","At Home;In Library",0,0,"Does not affect",4
+"2",140,85,0,9,5,"All are same.","At Home;In Library",18,1,"Negatively",3
+"3",8,0,0,7,5,"All are same.","At Home;In Library;While Travelling",12,12,"Positively",3.3
+"4",40,70,13,7,6,"Morning","At Home;In Library",20,120,"Positively",3.4
+"5",35,180,0,10,2,"Morning","At Home",20,12,"",0
+"6",31,75,0,7,5,"Morning","At Home",15,12,"Does not affect",3.3
+"7",15,100,0,10,2,"Morning","At Home;In Library",0,90,"Does not affect",0
+"8",5,50,22,8,4,"Evening","At Home;In Library",16,132,"Positively",3
+"9",30,40,6,6,7,"Night","At Home",20,48,"Positively",4
+"10",30,23,2,7,6,"Night","At Home",0,240,"Affects Very Positively",3.95
+"11",60,2,0,9,5,"Afternoon","At Home",20,3,"Positively",3
+"12",40,90,4,6,5,"Night","At Home",30,14,"Does not affect",3.71
+"13",25,35,1,6,5,"Morning","At Home",26,48,"Affects Very Positively",3.85
+"14",30,105,30,8,5,"Night","At Home",0,96,"Positively",3.5
+"15",40,90,0,5,8,"Morning","At Home",0,60,"Does not affect",4
+"16",20,30,10,8,2,"Evening","At Home",0,72,"Does not affect",0
+"17",60,30,0,8,5,"Night","At Home",8,45,"Does not affect",3.7
+"18",30,40,1,7,5,"Evening","In Library",8,12,"Negatively",3.5
+"19",45,70,45,6,7,"Morning","At Home",5,24,"Does not affect",4
+"20",10,55,90,8,7,"Night","At Home",6,36,"Positively",3.8
+"21",40,10,0,6,7,"All are same.","At Home",4,0,"Negatively",4
+"22",40,80,0,5,5,"Morning","At Home;In Library;While Travelling",10,1,"Does not affect",3
+"23",40,45,0,8,4,"Night","At Home;In Library",14,12,"Does not affect",2.7
+"24",10,180,6,7,5,"Evening","At Home",15,36,"Negatively",3.3
+"25",90,40,0,6,7,"Night","At Home;In Library;While Travelling",10,8,"Negatively",3.4
+"26",80,90,50,7,6,"Afternoon","At Home;While Travelling",10,12,"Does not affect",3.4
+"27",20,170,20,6,6,"Night","At Home",6,0,"Positively",3.9
+"28",20,65,40,8,6,"Night","At Home",5,12,"Does not affect",3.9
+"29",30,120,80,8,4,"Morning","At Home",9,0,"Does not affect",3
+"30",90,160,3,8,6,"Morning","At Home;In Library",4,6,"Does not affect",4
+"31",90,15,10,6,5,"All are same.","At Home;In Library;At Work Place;While Travelling",9,0,"Affects Very Negatively",3
+"32",15,140,1,9,6,"Night","At Home",8,18,"Affects Very Positively",3.5
+"33",40,94,8,8,3,"Evening","At Home",16,2,"Negatively",2.5
+"34",40,0.6,8,6,1,"Morning","In Library",15,5,"Does not affect",1.78
+"35",65,59,2,7,3,"Night","In Library;At Work Place",9,6,"Affects Very Negatively",3
+"36",10,180,4,9,3,"Morning","At Home",10,12,"Affects Very Negatively",2.44
+"37",40,75,4,8,4,"Night","In Library",12,6,"Positively",3.3
+"38",34,30,13,8,4,"Morning","In Library",10,1,"Does not affect",3
+"39",20,180,3,9,3,"Evening","At Home",14,9,"Affects Very Negatively",2.5
+"40",45,123,8,9,3,"Evening","At Home;At Work Place",14,0,"Affects Very Negatively",2.8
+"41",60,140,3,8,3,"Night","In Library",12,6,"Affects Very Positively",2.45
+"42",10,65,1,8,3,"Morning","At Work Place;While Travelling",13,7,"Does not affect",2.8
+"43",60,65,2,7,1,"Morning","In Library",16,6,"Does not affect",1.8
+"44",90,111,0,7,2,"Evening","At Home;In Library;While Travelling",15,12,"Does not affect",2
+"45",30,100,20,6,3,"All are same.","At Home",15,12,"Does not affect",3
+"46",56,0,7,8,3,"Night","While Travelling",12,16,"Affects Very Negatively",2.5
+"47",5,60,60,7,6,"Morning","At Home;In Library",6,0,"Positively",4
+"48",25,150,3.5,8,6,"Morning","At Home",7,2,"Affects Very Negatively",3.44
+"49",35,65,8,9,3,"Evening","In Library",10,15,"Affects Very Negatively",2.63
+"50",90,0,10,8,3,"Morning","At Home",8,5,"Affects Very Negatively",3
+"51",30,450,2,8,4,"Morning","At Home",8,12,"Affects Very Negatively",3.22
+"52",6,11,4,10,4,"Afternoon","In Library",15,14,"Does not affect",2.46
+"53",40,0.3,9,7,2,"Morning","At Home;In Library",16,20,"Affects Very Negatively",2
+"54",33,31,3,7,2,"Night","At Home",16,10,"Positively",1.96
+"55",55,26,8,8,3,"Night","At Home;At Work Place",12,25,"Negatively",2.1
+"56",30,85,30,9,4,"Morning","At Home",12,0,"Does not affect",3
+"57",80,70,60,6,5,"Afternoon","In Library;While Travelling",6,0,"Affects Very Positively",3.9
+"58",10,180,80,7,4,"Night","At Home",7,24,"Positively",3.2
+"59",20,50,45,7,6,"All are same.","At Home",5,12,"Does not affect",4.1
+"60",5,125,40,9,4,"Afternoon","At Home",9,0,"Negatively",2.8
+"61",90,80,10,8,5,"All are same.","In Library",7,12,"Does not affect",3.5
+"62",70,90,20,6,8,"Evening","At Home;In Library",5,12,"Affects Very Positively",3.9
+"63",7,50,20,6,6,"All are same.","At Home;In Library",8,36,"Does not affect",3.3
+"64",20,60,3,8,5,"All are same.","In Library",10,6,"Positively",3
+"65",2,90,5,8,3,"Morning","In Library",13,8,"Positively",2
+"66",20,105,50,5,4,"Night","In Library",8,0,"Does not affect",3.5
+"67",45,70,40,8,5,"Morning","At Home",6,2,"Positively",3.6
+"68",20,100,45,7,7,"Evening","In Library",5,0,"Does not affect",4
+"69",90,80,60,8,6,"Morning","At Home;While Travelling",6,0,"Negatively",3.8
+"70",120,95,135,6,4,"Afternoon","In Library",10,0,"Affects Very Negatively",2.6
+"71",90,50,30,5,3,"Afternoon","At Home",10,2,"Negatively",3
+"72",20,60,150,7,5,"Morning","At Home",11,0,"Negatively",3
+"73",90,75,45,8,4,"Evening","At Home;While Travelling",12,0,"Negatively",2.8
+"74",20,90,7,7,5,"Morning","At Home",6,27,"Does not affect",3.78
+"75",120,70,22,6,5,"Morning","While Travelling;In park",10,18,"Does not affect",2.9
+"76",30,300,35,10,5,"Evening","In Library",8,0,"Does not affect",3
+"77",20,80,35,7,5,"All are same.","While Travelling",7,24,"Affects Very Positively",3.2
+"78",25,360,12,10,6,"All are same.","In Library",7,12,"Affects Very Positively",3.3
+"79",5,90,22,6,6,"Morning","At Home;In Library",6,17,"Does not affect",3.1
+"80",45,70,19,5,6,"All are same.","At Home",4,12,"Affects Very Negatively",3.7
+"81",20,80,34,5,6,"Afternoon","At Home;In Library",8,22,"Positively",3.4
+"82",10,80,27,9,7,"Afternoon","At Home;In Library",5,36,"Negatively",4
+"83",110,50,15,6,4,"Afternoon","In Library;While Travelling",12,0,"Does not affect",2.6
+"84",30,40,5,7,6,"Afternoon","In Library",10,0,"Negatively",3.5
+"85",45,80,27,6,5,"Night","At Home",9,12,"Positively",3
+"86",15,150,25,7,7,"All are same.","In Library",4,24,"Does not affect",4
+"87",120,60,32,7,6,"Night","At Home",6,24,"Does not affect",3.5
+"88",40,60,31,7,6,"Morning","At Home",14,28,"Does not affect",3
+"89",40,105,26,8,5,"Evening","At Home",12,12,"Positively",2.9
+"90",30,70,23,6,4,"All are same.","college campus",15,24,"Negatively",3
+"91",15,85,32,7,4,"Evening","At Home;In Library",7,20,"Does not affect",3.3
+"92",40,95,32,7,4,"All are same.","At Home",12,0,"Positively",2.9
+"93",15,90,38,7,6,"Afternoon","In Library;While Travelling",6,12,"Does not affect",3.9
+"94",20,85,11,6,6,"Afternoon","At Home;In Library",5,0,"Does not affect",3.5
+"95",30,128,29,7,4,"Afternoon","At Home",9,26,"Negatively",2.9
+"96",70,90,34,6,6,"Evening","At Home",8,0,"Does not affect",3
+"97",40,100,41,8,3,"Afternoon","At Home;In Library",10,20,"Positively",2.7
+"98",20,30,29,7,3,"All are same.","In Library;While Travelling",12,12,"Negatively",2.9
+"99",40,95,35,7,6,"All are same.","In Library;At Work Place;While Travelling",8,24,"Negatively",3.56
+"100",46,95,26,8,6,"Night","At Home",7,12,"Does not affect",3.23
